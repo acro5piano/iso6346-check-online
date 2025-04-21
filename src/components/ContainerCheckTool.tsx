@@ -27,11 +27,11 @@ export default function ContainerCheckTool() {
   }
 
   return (
-    <div className="p-6 max-w-md mx-auto bg-white rounded-2xl shadow-xl">
+    <div className="p-6 mt-4 max-w-md mx-auto bg-white rounded-2xl shadow-xl">
       <h1 className="text-3xl font-extrabold mb-2">
         ISO 6346 Container Number Validator
       </h1>
-      <p className="text-sm text-gray-600 mb-4">
+      <p className="text-sm text-gray-800 mb-4">
         Instantly validate shipping container numbers using the official ISO
         6346 check digit algorithm. Ensure your logistics data is accurate and
         compliant.
